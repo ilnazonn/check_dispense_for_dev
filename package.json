@@ -1,0 +1,17 @@
+{
+  "name": "check_dispense_for_dev",
+  "version": "1.0.0",
+  "description": "check tm api",
+  "main": "check_dispense_2_minutes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilnazonn",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
